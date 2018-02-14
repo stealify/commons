@@ -1,5 +1,5 @@
 {
-  "name": "@feathersjs/commons",
+  "name": "@stealify/crud-commons",
   "version": "1.4.0",
   "description": "Shared Feathers utility functions",
   "homepage": "https://github.com/feathersjs/commons",
